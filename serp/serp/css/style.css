@@ -2325,3 +2325,9 @@ color:#ffff;
 .copy{
   color: #cecece;
 }
+.copy p {
+    margin-bottom:0;
+}
+.footer-bottom {
+    background: linear-gradient(to right, #114aa9 0%, #134f69 64%, #0c6a92 100%);
+}
